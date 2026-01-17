@@ -3,11 +3,12 @@ import React from 'react'
 
 
 const Footer = () => {
+  const tahunSekarang = new Date().getFullYear();
   return (
     <section id="__footer" className="py-5">
       <div className="text-center text-xs md:text-sm text-gray-100">
         <p>
-          &copy; 2025, Built by{" "}
+          &copy; {tahunSekarang}, Built by{" "}
           <Link
             href="https://github.com/rasyidridho05"
             target="_blank"
