@@ -10,7 +10,7 @@ const Footer = () => {
         <p>
           &copy; {tahunSekarang}, Built by{" "}
           <Link
-            href="https://github.com/rasyidridho05"
+            href="https://github.com/Research-and-Creativity"
             target="_blank"
             className="font-medium"
           >

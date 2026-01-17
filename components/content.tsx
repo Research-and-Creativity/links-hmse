@@ -21,11 +21,11 @@ const Content = () => {
             <h1 className="w-full text-lg md:text-xl lg:text-2xl font-semibold text-center">
               Himpunan Mahasiswa Software Engineering
             </h1>
-            <p className="w-full text-sm md:text-base text-center md:pt-4">Official Links of Himpunan Mahasiswa Software Engineering <br/> Telkom University Purwokerto</p>
+            <p className="w-full text-sm md:text-base text-center md:pt-4">Official Links of Himpunan Mahasiswa Software Engineering <br /> Telkom University Purwokerto</p>
           </div>
           <div className="">
-            {datas.map((e:dataTypes, i:number)=>(
-            <Card key={i} {...e} />
+            {datas.map((e: dataTypes, i: number) => (
+              <Card key={i} {...e} />
             ))}
           </div>
         </div>
