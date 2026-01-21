@@ -47,7 +47,7 @@ export const datas: dataTypes[] = [
   },
   {
     title: "SOP Media Partner",
-    link: "https://docs.google.com/document/d/1yn0xXvfSeQTjBjUdZH2troHXgrjytLHJ/edit?usp=drivesdk&ouid=113054099281334073740&rtpof=true&sd=true",
+    link: "https://docs.google.com/document/d/1KRSMWRgYjKTrj067UqDsSUeyVCNIp99YWei_t0boGkE/edit?usp=sharing",
     icon: LiaFileAlt,
   },
 ];
