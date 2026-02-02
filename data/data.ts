@@ -42,7 +42,7 @@ export const datas: dataTypes[] = [
   },
   {
     title: "Whatsapp (Najwa)",
-    link: "http://wa.me/6282237211097",
+    link: "http://wa.me/6285385782684",
     icon: LiaWhatsapp,
   },
   {
