@@ -10,11 +10,11 @@ import {
 } from "react-icons/lia";
 
 export const datas: dataTypes[] = [
-  //   {
-  //     title: "Website",
-  //     link: "",
-  //     icon: LiaBasketballBallSolid,
-  //   },
+  {
+    title: "Our Business",
+    link: "https://zetech.id/",
+    icon: LiaBasketballBallSolid,
+  },
   {
     title: "Email",
     link: "mailto:hmse-pwt@telkomuniversity.ac.id",

@@ -23,7 +23,7 @@ const Content = () => {
             </h1>
             <p className="w-full text-sm md:text-base text-center md:pt-4">Official Links of Himpunan Mahasiswa Software Engineering <br /> Telkom University Purwokerto</p>
           </div>
-          <div className="">
+          <div className="container max-w-screen-lg md:px-4 grid grid-cols-1 md:grid-cols-2 md:gap-x-4">
             {datas.map((e: dataTypes, i: number) => (
               <Card key={i} {...e} />
             ))}
